@@ -2,7 +2,7 @@
 
 ### Software Engineer @ ServiceNow
 
-<sub>Phoenix, Arizona, USA • 602-341-5263 • [shriya2223@zohomail.com](mailto:shriya2223@zohomail.com)</sub>
+<sub>Tempe, Arizona, USA • 602-341-5263 • [shriya2223@zohomail.com](mailto:shriya2223@zohomail.com)</sub>
 
 <p align="center">
   <a href="<!-- Replace with your actual LinkedIn URL -->">
