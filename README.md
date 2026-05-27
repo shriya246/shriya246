@@ -5,13 +5,13 @@
 <sub>Tempe, Arizona, USA • 602-341-5263 • [shriya2223@zohomail.com](mailto:shriya2223@zohomail.com)</sub>
 
 <p align="center">
-  <a href="<!-- Replace with your actual LinkedIn URL -->">
+  <a href="https://www.linkedin.com/in/shriya-patel8/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="<!-- Replace with your actual GitHub URL -->">
+  <a href="https://github.com/shriya246">
     <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="<!-- Replace with your actual Portfolio URL -->">
+  <a href="https://shriya-patel-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:shriya2223@zohomail.com">
@@ -66,7 +66,6 @@ The architecture focused heavily on real-time anomaly detection, scalable cloud-
 **Tech Stack:**
 `Python` `MQTT` `AWS` `Azure IoT Hub` `Microservices` `Cloud Architecture` `Monitoring` `Distributed Systems`
 
-**GitHub:** <!-- Replace with your actual project repository URL -->
 
 ---
 
@@ -79,7 +78,6 @@ The application included secure authentication using JWT and bcrypt encryption w
 **Tech Stack:**
 `React.js` `Node.js` `Socket.io` `Redis` `Azure Service Bus` `JWT` `bcrypt`
 
-**GitHub:** <!-- Replace with your actual project repository URL -->
 
 ---
 
@@ -91,8 +89,6 @@ Designed scalable machine learning workflows for model training, optimization, i
 
 **Tech Stack:**
 `YOLO` `TensorFlow` `PyTorch` `Computer Vision` `Machine Learning` `Python`
-
-**GitHub:** <!-- Replace with your actual project repository URL -->
 
 ---
 
@@ -187,16 +183,16 @@ Published research exploring the intersection of artificial intelligence, cybers
 I’m always open to connecting with engineers working on backend systems, distributed infrastructure, cloud-native platforms, AI/ML systems, and scalable enterprise applications.
 
 <p align="center">
-  <a href="<!-- Replace with your actual LinkedIn URL -->">
+  <a href="https://www.linkedin.com/in/shriya-patel8/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="<!-- Replace with your actual GitHub URL -->">
+  <a href="https://github.com/shriya246">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:shriya2223@zohomail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="<!-- Replace with your actual Portfolio URL -->">
+  <a href="https://shriya-patel-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
