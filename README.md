@@ -167,15 +167,14 @@ Published research exploring the intersection of artificial intelligence, cybers
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=shriya246&show_icons=true&theme=tokyonight&hide_border=true" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriya246&layout=compact&theme=tokyonight&hide_border=true" />
       </td>
     </tr>
   </table>
 </p>
-
 ---
 
 ## 🤝 Let's Connect
@@ -198,7 +197,7 @@ I’m always open to connecting with engineers working on backend systems, distr
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=shriya246&style=flat-square&color=blue" />
 </p>
 
 ---
