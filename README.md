@@ -164,16 +164,7 @@ Published research exploring the intersection of artificial intelligence, cybers
 ## 📈 GitHub Activity
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=shriya246&show_icons=true&theme=tokyonight&hide_border=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriya246&layout=compact&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shriya246&theme=tokyo-night&hide_border=true" />
 </p>
 ---
 
