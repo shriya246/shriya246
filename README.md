@@ -1,194 +1,235 @@
 # Shriya Patel
 
-### Software Engineer @ ServiceNow
+### AI Product Manager @ ServiceNow
 
-<sub>Tempe, Arizona, USA • 602-341-5263 • [shriya2223@zohomail.com](mailto:shriya2223@zohomail.com)</sub>
+<sub>Tempe, Arizona, USA • 801-960-2189 • <a href="mailto:shriya.p@itjobinbox.com">shriya.p@itjobinbox.com</a></sub>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shriya-patel8/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://github.com/shriya246">
     <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://shriya-patel-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:shriya2223@zohomail.com">
+
+  <a href="mailto:shriya.p@itjobinbox.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering-success?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Open%20to-AI%20Product%20Manager-success?style=for-the-badge" />
+
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👋 About Me
 
-I’m a Software Engineer with 4+ years of experience building scalable backend systems, cloud-native applications, and distributed platforms across enterprise environments. My work focuses on high-performance microservices, event-driven architectures, real-time processing systems, and backend infrastructure using Python, Java, FastAPI, Spring Boot, Node.js, AWS, Kubernetes, and Apache Kafka.
+I'm an **AI Product Manager** with 4+ years of experience delivering enterprise SaaS and AI-powered products from customer discovery to production launch.
 
-At ServiceNow, I design and deploy distributed systems running on AWS Lambda and Kubernetes while improving API performance, system reliability, deployment automation, and observability across enterprise workflows. Prior to that, I worked on large-scale log analytics and streaming systems processing millions of events daily using .NET Core, Kafka, PostgreSQL, MongoDB, and multithreaded C++ architectures.
+My experience combines product strategy, roadmap planning, user research, AI product development, and hands-on technical execution. I enjoy building products that solve complex business problems using Generative AI, LLMs, analytics, and modern cloud technologies.
 
-I completed my Master of Science in Information Technology at Arizona State University with a 4.0 GPA and have published research in AI, renewable energy estimation, cybersecurity, and cryptocurrency systems. My current focus is backend engineering, cloud infrastructure, resilient distributed systems, and real-time data processing platforms.
+At **ServiceNow**, I lead enterprise AI initiatives including **Now Assist, AI Control Tower, and Agent Studio**, driving AI adoption, governance, workflow automation, and measurable business outcomes across multiple organizations.
+
+Alongside my professional work, I build production-grade AI platforms focused on customer intelligence, product analytics, roadmap planning, and enterprise decision support.
 
 ---
 
-## 🛠 Technical Skills
-
-My core stack spans backend systems, cloud infrastructure, distributed architectures, and scalable enterprise applications.
+# 🚀 Product Management Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,nodejs,fastapi,spring,react,nextjs,aws,azure,docker,kubernetes,kafka,postgres,mongodb,redis" />
+
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,aws,figma" />
+
 </p>
 
-| Category                            | Technologies                                                                                              |
-| ----------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| **Programming Languages**           | Python, Java, C++, C#, SQL, JavaScript, TypeScript                                                        |
-| **Backend Engineering**             | FastAPI, Spring Boot, Django, Node.js, Express.js, .NET Core, REST APIs, gRPC, Microservices Architecture |
-| **Frontend Development**            | React.js, Next.js, HTML5, CSS3                                                                            |
-| **Cloud Platforms**                 | AWS (Lambda, EC2, S3, SNS, SES, EKS), Azure (Functions, AKS, Blob Storage, Service Bus)                   |
-| **DevOps & Infrastructure**         | Docker, Kubernetes, Jenkins, GitHub Actions, Azure DevOps, Linux, Bash                                    |
-| **Databases & Caching**             | PostgreSQL, MySQL, MongoDB, DynamoDB, Redis                                                               |
-| **Streaming & Distributed Systems** | Apache Kafka, Apache Spark, Hadoop, Event-Driven Architecture                                             |
-| **Machine Learning & AI**           | TensorFlow, PyTorch, Scikit-learn, NLP, Computer Vision, MLflow                                           |
-| **Security & Authentication**       | OAuth2, JWT, RBAC, TLS, AES Encryption                                                                    |
-| **Monitoring & Observability**      | Prometheus, Grafana, ELK Stack, CloudWatch, Logging & Metrics                                             |
+| Category | Technologies |
+|------------|-------------|
+| **Product Management** | Product Strategy, Product Vision, Roadmaps, PRDs, User Stories, Sprint Planning, Agile, Scrum, OKRs, Stakeholder Management |
+| **AI Product Development** | Claude API, OpenAI API, RAG, AI Agents, Prompt Engineering, Responsible AI, LLM Evaluation |
+| **Product Analytics** | SQL, Mixpanel, Google Analytics, Tableau, Power BI |
+| **Product Design** | Figma, User Research, Wireframing, Usability Testing, Journey Mapping |
+| **Technical** | React, Node.js, Python, REST APIs, AWS, Postman |
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Products
 
-### **Air Pollution Monitoring System**
+## 🧠 Enterprise Product Intelligence Platform
 
-Built a fault-tolerant IoT platform designed for large-scale environmental monitoring using Azure IoT Hub, MQTT, and AWS cloud services. The system processes over 2M+ MQTT messages daily while maintaining high availability, observability, and resilient distributed communication pipelines.
+Enterprise AI platform that helps product teams analyze customer feedback, prioritize features, generate PRDs, and monitor product health using Generative AI.
 
-The architecture focused heavily on real-time anomaly detection, scalable cloud-native microservices, monitoring pipelines, and operational reliability with 99% uptime across distributed infrastructure.
+### Highlights
 
-**Tech Stack:**
-`Python` `MQTT` `AWS` `Azure IoT Hub` `Microservices` `Cloud Architecture` `Monitoring` `Distributed Systems`
+- AI Product Copilot
+- PRD Generator
+- Roadmap Builder
+- Feature Prioritization
+- Executive Dashboard
+- Customer Analytics
+- AI Insights
 
+**Tech**
 
----
-
-### **Real-Time Chat Application**
-
-Developed a scalable real-time messaging platform using React, Node.js, Socket.io, Redis, and Azure Service Bus supporting 100+ concurrent users with low-latency message delivery.
-
-The application included secure authentication using JWT and bcrypt encryption while leveraging Redis caching and distributed messaging systems to improve scalability and responsiveness under concurrent workloads.
-
-**Tech Stack:**
-`React.js` `Node.js` `Socket.io` `Redis` `Azure Service Bus` `JWT` `bcrypt`
-
-
----
-
-### **3D Object Detection System**
-
-Built high-accuracy computer vision models using YOLO, TensorFlow, and PyTorch for 3D object detection workflows achieving up to 95–100% prediction accuracy across detection pipelines.
-
-Designed scalable machine learning workflows for model training, optimization, inference, and production deployment with emphasis on reliability and high-performance AI processing.
-
-**Tech Stack:**
-`YOLO` `TensorFlow` `PyTorch` `Computer Vision` `Machine Learning` `Python`
+`React`
+`Node.js`
+`FastAPI`
+`OpenAI`
+`Claude`
+`RAG`
+`PostgreSQL`
 
 ---
 
-## 💼 Experience
+## 🎯 Customer Voice Intelligence Platform
 
-### **ServiceNow, USA** — *Software Engineer*
+AI-powered Voice of Customer platform that converts customer feedback into actionable product insights.
 
-<sub>Nov 2024 – Present</sub>
+### Highlights
 
-* Architected and deployed scalable microservices using Python (FastAPI) and Node.js on AWS Lambda and Kubernetes, supporting high-volume enterprise workflows.
-* Designed high-performance REST and gRPC APIs integrated with PostgreSQL and Redis, reducing API response latency by **32%** through caching and query optimization.
-* Implemented event-driven communication using Apache Kafka and AWS SNS, reducing inter-service bottlenecks by **28%** and improving real-time processing reliability.
-* Automated containerized deployments using Docker, Amazon EKS, and CI/CD pipelines, decreasing release failures by **25%** and accelerating deployment cycles.
-* Strengthened distributed system security using OAuth2, JWT, and RBAC authentication mechanisms.
-* Built centralized observability and monitoring pipelines with Kubernetes logging, metrics, and troubleshooting dashboards.
+- Customer Feedback Analysis
+- AI Sentiment Detection
+- Feature Request Mining
+- Churn Prediction
+- Customer Journey Analytics
+- Executive Reports
 
----
+**Tech**
 
-### **Disha Enterprise, India** — *Software Engineer*
-
-<sub>Jan 2021 – Jul 2023</sub>
-
-* Developed a cloud-based log analytics platform using C#/.NET Core and C++, processing over **1M+ log events daily** with optimized backend performance.
-* Engineered scalable backend services using Spring Boot and .NET Core integrated with MySQL and MongoDB for enterprise-scale applications.
-* Built real-time streaming pipelines using Apache Kafka, increasing throughput by **30%** and improving large-scale data processing efficiency.
-* Developed responsive frontend components using React and TypeScript, improving user engagement by **20%**.
-* Optimized PostgreSQL and DynamoDB queries, reducing execution time by **35%** and improving system responsiveness.
-* Designed multithreaded C++ modules for high-speed log parsing and caching across large-scale datasets.
+`React`
+`Python`
+`OpenAI`
+`FastAPI`
+`PostgreSQL`
 
 ---
 
-### **Education**
+## 📈 AI Product Management Platform
 
-### **Arizona State University, USA** — *Master of Science in Information Technology*
-
-<sub>Graduated May 2025 • GPA: 4.0/4.0</sub>
-
-### **Indus University, India** — *Bachelor of Engineering in Computer Science*
-
-<sub>Graduated May 2023 • GPA: 3.96/4.0</sub>
+Modern operating system for Product Managers combining roadmap planning, sprint management, AI copilots, analytics, experimentation, and release management.
 
 ---
 
-## 📚 Research Publications
+## 📊 Executive Product Dashboard
 
-### **Solar Radiation and Solar Energy Estimation using ANN and Fuzzy Logic Concept**
-
-*Environmental Science and Pollution Research* • 2022
-
-Research focused on solar radiation and solar energy estimation using Artificial Neural Networks and fuzzy logic concepts for predictive renewable energy modeling.
-
-[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs11356--022--19185--z-2ea44f?style=flat-square)](https://doi.org/10.1007/s11356-022-19185-z)
+Real-time executive dashboard providing KPI monitoring, AI-generated summaries, adoption tracking, and product performance insights.
 
 ---
 
-### **Artificial Intelligence and Cyber Security in Cryptocurrency and Banking Systems**
+# 💼 Experience
 
-*Journal of Banking and Financial Technology* • 2022
+## ServiceNow — AI Product Manager
 
-Published research exploring the intersection of artificial intelligence, cybersecurity systems, cryptocurrency platforms, and banking infrastructure security models.
+**Nov 2024 – Present**
 
-[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs40745--022--00433--5-2ea44f?style=flat-square)](https://link.springer.com/article/10.1007/s40745-022-00433-5)
-
----
-
-## 📜 Certifications
-
-* ![Microsoft](https://img.shields.io/badge/Microsoft-Azure%20AI%20Essentials%20Professional-0078D4?style=flat-square\&logo=microsoft\&logoColor=white)
-* ![OpenAI](https://img.shields.io/badge/OpenAI-LangChain%20%26%20LLM%20Applications-412991?style=flat-square)
+- Scaled enterprise AI adoption from a 40-user pilot to 600+ active users across ITSM, HRSD, and CRM.
+- Delivered 38% ticket deflection while generating $2.1M in annual cost avoidance.
+- Led AI Control Tower governance across 14 business teams.
+- Reduced governance review time from 3 weeks to 4 days.
+- Improved AI response quality by 22% through enterprise knowledge readiness initiatives.
+- Partnered across Product, Engineering, Security, Design, and Operations teams to launch enterprise AI capabilities.
 
 ---
 
-## 📈 GitHub Activity
+## Infinite Infolab — Product Manager
+
+**Jan 2021 – Jul 2023**
+
+- Owned complete roadmap for OmniServe Field Service Management platform.
+- Led UX redesign improving task completion by 28%.
+- Built Mixpanel analytics framework driving retention improvements.
+- Delivered API-first capabilities two weeks ahead of schedule.
+- Led AWS migration reducing downtime by 90%.
+- Improved customer satisfaction from 3.6 to 4.4.
+
+---
+
+# 🎓 Education
+
+### Arizona State University
+
+**Master of Science**
+Information Technology
+
+**GPA:** 4.0/4.0
+
+---
+
+### Indus University
+
+Bachelor of Engineering
+Computer Science
+
+**GPA:** 3.96/4.0
+
+---
+
+# 📚 Publications
+
+### AI and Cyber Security in Cryptocurrency and Banking Systems
+
+Springer Publication
+
+---
+
+### Solar Radiation Estimation using ANN & Fuzzy Logic
+
+Springer Publication
+
+---
+
+# 📜 Certifications
+
+- Microsoft Azure AI Essentials Professional
+- LangChain & OpenAI LLM Applications
+
+---
+
+# 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shriya246&theme=tokyo-night&hide_border=true" />
-</p>
----
 
-## 🤝 Let's Connect
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shriya246&theme=tokyo-night&hide_border=true" />
 
-I’m always open to connecting with engineers working on backend systems, distributed infrastructure, cloud-native platforms, AI/ML systems, and scalable enterprise applications.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shriya-patel8/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/shriya246">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:shriya2223@zohomail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://shriya-patel-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shriya246&style=flat-square&color=blue" />
 </p>
 
 ---
+
+# 🤝 Let's Connect
+
+I'm always interested in connecting with people working on:
+
+- AI Product Management
+- Enterprise SaaS
+- Generative AI
+- Product Strategy
+- Product Analytics
+- Platform Products
+- AI Agents
+- Customer Experience
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shriya-patel8/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shriya246">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://shriya-patel-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shriya246&style=flat-square&color=blue"/>
+
+</p>
