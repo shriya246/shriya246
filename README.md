@@ -126,12 +126,17 @@ Real-time executive dashboard providing KPI monitoring, AI-generated summaries, 
 
 **Nov 2024 – Present**
 
-- Scaled enterprise AI adoption from a 40-user pilot to 600+ active users across ITSM, HRSD, and CRM.
-- Delivered 38% ticket deflection while generating $2.1M in annual cost avoidance.
-- Led AI Control Tower governance across 14 business teams.
-- Reduced governance review time from 3 weeks to 4 days.
-- Improved AI response quality by 22% through enterprise knowledge readiness initiatives.
-- Partnered across Product, Engineering, Security, Design, and Operations teams to launch enterprise AI capabilities.
+● Scaled AI agent adoption org-wide: led enterprise rollout of 60+ Now Assist agents across ITSM, HRSD, and CRM moving 
+40-person pilot to 600+ active users in 10 weeks, achieving 38% ticket deflection and $2.1M in cost avoidance.
+● Defined and drove AI Control Tower framework adoption across 14 business teams, enabling agentic AI deployment with 
+full RBAC, compliance, and auditability, compressing governance review cycles from 3 weeks to 4 days.
+● Deployed change management and SecOps AI agents via Agent Studio, automating repetitive incident workflows and 
+driving a 42% reduction in mean time to resolution (MTTR) across 3 business units freeing agents from manual triage to 
+focus on complex escalations.
+● Improved AI output quality at scale: partnered with platform and data teams to remediate 10,000+ CSDM and knowledge 
+base records as AI readiness prerequisites, reducing LLM hallucination risk and improving Now Assist response accuracy 
+by 22%.
+● Established data quality standards and alignment protocols across platform, security, and content teams resolving crossfunctional blockers and enabling 3 previously stalled AI feature launches to ship on schedule.
 
 ---
 
@@ -139,12 +144,16 @@ Real-time executive dashboard providing KPI monitoring, AI-generated summaries, 
 
 **Jan 2021 – Jul 2023**
 
-- Owned complete roadmap for OmniServe Field Service Management platform.
-- Led UX redesign improving task completion by 28%.
-- Built Mixpanel analytics framework driving retention improvements.
-- Delivered API-first capabilities two weeks ahead of schedule.
-- Led AWS migration reducing downtime by 90%.
-- Improved customer satisfaction from 3.6 to 4.4.
+● Owned full OmniServe roadmap across 18 sprints - introduced early risk flagging that achieved 98% sprint commitment, 
+cut cross-team disruptions by 60%, and directly unlocked onboarding of 5 enterprise clients in Q4.
+● Led research-driven UX redesign: ran 4 usability testing cycles (20+ users) in Figma, increased task completion rate 28%, 
+and cut new-user onboarding time from 3 days to under 8 hours.
+● Turned data into retention: built Mixpanel + Google Analytics framework, identified SLA visibility gaps, and launched 
+automated alerts - reducing resolution time 40% and preventing churn of 3 enterprise clients worth ~$180K ARR.
+● Shipped API-driven feature 2 weeks early: defined API contracts and aligned Node.js and Flutter teams via Postman for 
+real-time field agent tracking - early delivery contributed directly to a $33K contract renewal.
+● Led zero-downtime AWS migration: directed on-prem to AWS (EC2, RDS, S3) migration in 6 weeks; reduced downtime 
+90%, raised CSAT from 3.6 to 4.4/5, and supported 5 enterprise client onboardings in one quarter.
 
 ---
 
